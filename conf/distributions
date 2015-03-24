@@ -1,0 +1,8 @@
+Origin: apt.radxa.com
+Label: apt repository
+Codename: jim
+Architectures: armhf source
+Components: main
+Description: Debian packages for radxa products
+SignWith: yes
+Pull: jim
