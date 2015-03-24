@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: apt.radxa.com
+Label: apt repository
+Codename: jim
+Date: Tue, 24 Mar 2015 08:05:52 UTC
+Architectures: armhf
+Components: main
+Description: Debian packages for radxa products
+MD5Sum:
+ 62c86c291ed2c026c6caa39cd64820f5 2532 main/binary-armhf/Packages
+ 54d5cb1a08d18963032eac2527b77808 1190 main/binary-armhf/Packages.gz
+ e0ea1e5bc447b1e0cffaeec3873fe956 128 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ f479cba592f38fb325f3c142ef6c4c4d 129 main/source/Release
+SHA1:
+ ff56d456ee1652fb77000ec248d9eb57e0a9c540 2532 main/binary-armhf/Packages
+ c9affa04381cf2c80022ba386e6acf31b96769a5 1190 main/binary-armhf/Packages.gz
+ 6544e72ab12c3acbbfac70a68b4d4eea1a20f270 128 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 400127e46e9d5391f0200710ab7adc81939ee13f 129 main/source/Release
+SHA256:
+ 2ac94ef41640b88d1786740e83fd7479845a89a6ce980f883a1aa7dd1f4e4b9c 2532 main/binary-armhf/Packages
+ de6ba46d95456106f60beece3b40ce846f474c683df16e015bfea9a5c56521f8 1190 main/binary-armhf/Packages.gz
+ 6de195245c70679a8cb234fbb0a2d1687544ada563598ff0136244b49d562f38 128 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ b83429f1468a2ec7185f1463528fcaac9a80ce587377e20557a98d52693c6770 129 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJVERrgAAoJEGmJFolCqJhL0BcH/Rl3xibFoIxtQ+VJCcNp5Aui
+7/yrSqnR6rDFqwPgJ4IRjCo7Riibjpbi70p2bg5C9WSDHjtSKmE5UxEJV8Tpq7mX
+ZnlTEpNs3E1GGuNZI5Reg0BJn1sgJDIFc0AUbCygVPhZTKCLM1UGRRc2HTnxL+uG
+ZmMXz2erCXHX1QKIJbfSjCCm7++pKJvjY6gjEIX0NiDNMLuDHwmHaea//aFYIFmY
+bLAXwygsP6lRN2NxpskLSoa5Yn0QS0mZSTNktQJNnDHAA7t1k5+LWKTpiikrFK96
+9HO8neJ5geg1ycGblXVawklGEfOlQiG4X91NxsZLL7wIrdIEjhYpdCRko4xUhNo=
+=VzAU
+-----END PGP SIGNATURE-----
